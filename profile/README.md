@@ -1,4 +1,4 @@
-![Code-Create-Collaborate](https://github.com/HMS-Analytical-Software/.github/blob/main/profile/Banner-Code-Create-Collaborate.png)
+![Code-Create-Collaborate](https://github.com/HMS-Analytical-Software/.github/blob/main/profile/Banner-Code-Create-Collaborate.jpg)
 
 ## 💡 Who are we?
 
