@@ -1,12 +1,18 @@
-## Hi there 👋
+![Code-Create-Collaborate](https://github.com/HMS-Analytical-Software/.github/blob/main/profile/Banner-Code-Create-Collaborate.png)
 
-<!--
+## 💡 Who are we?
 
-**Here are some ideas to get you started:**
+We are HMS Analytical Software GmbH, a seasoned provider of custom software solutions and data science services based in beautiful Heidelberg, Germany. With 30+ years of experience, our tech-savvy team delivers cutting-edge applications tailored to a wide range of industries.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🔍 Why are we on GitHub?
+
+We're here to connect with the developer community, collaborate on exciting projects, and contribute to open-source initiatives. Together, we leverage collective expertise to drive innovation in software development and data science.
+
+## 🛠️ Our current projects
+
+* [SASUnit](https://github.com/HMS-Analytical-Software/SASUnit) - the Unit testing framework for SAS(R) programs.
+
+## ⚡ Join the HMS team
+
+Passionate about software development and data science?
+Join our team at HMS Analytical Software! We offer exciting projects, open-source collaboration, and growth opportunities. Explore careers with us and shape the future of tech. Check out our current job offers [here](https://jobs.analytical-software.de/jobs).
