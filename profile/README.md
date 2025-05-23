@@ -11,7 +11,7 @@ We're here to connect with the developer community, collaborate on exciting proj
 ## 🛠️ Our current projects
 
 * [SASUnit](https://github.com/HMS-Analytical-Software/SASUnit) - the Unit testing framework for SAS(R) programs.
-* [GitAlchemist](https://github.com/HMS-Analytical-Software/GitAlchemist) - A framework for setting up git repositories from a simple config file. The ideal companion for git tutorials!
+* [goGitAlchemist](https://github.com/HMS-Analytical-Software/goGitAlchemist) - A tool for setting up git repositories from a simple config file. The ideal companion for git tutorials!
 
 ## ⚡ Join the HMS team
 
