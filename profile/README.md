@@ -16,4 +16,4 @@ We're here to connect with the developer community, collaborate on exciting proj
 ## ⚡ Join the HMS team
 
 Passionate about software development and data science?
-Join our team at HMS Analytical Software! We offer exciting projects, open-source collaboration, and growth opportunities. Explore careers with us and shape the future of tech. [Check out our current job offers!](https://karriere.analytical-software.de/?utm_source=github&utm_medium=organic&utm_campaign=employerbrand&utm_content=profil).
+Join our team at HMS Analytical Software! We offer exciting projects, open-source collaboration, and growth opportunities. Explore careers with us and shape the future of tech. [Check out our current job offers!](https://karriere.analytical-software.de/).
